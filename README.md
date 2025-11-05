@@ -21,5 +21,5 @@ breathing
 The larynx also participates in breathing. At the tail of the recurrent laryngeal nerve, it is activated and causes abrasion of the vocal cords. This happens just before the stimulation of the phrenic nerve and causes air to flow into the lungs.
   </b>
 </p>
-<img src="Term meaning.png" alt="Laryngeal Tissue Example" width="1000"/>
+<img src="Term meaning.jpg" alt="Laryngeal Tissue Example" width="1000"/>
 </p>
